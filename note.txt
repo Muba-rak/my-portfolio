@@ -1,0 +1,9 @@
+VERSION CONTROL
+
+git- 
+github - 
+
+terminal
+repository - 
+git config --global user.email "oladapomubarak@gmail.com"
+git config --global user.name "Muba-rak"
